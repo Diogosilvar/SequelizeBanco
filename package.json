@@ -16,5 +16,13 @@
   "devDependencies": {
     "sequelize-cli": "^6.2.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diogosilvar/SequelizeBanco.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Diogosilvar/SequelizeBanco/issues"
+  },
+  "homepage": "https://github.com/Diogosilvar/SequelizeBanco#readme",
   "description": ""
 }
