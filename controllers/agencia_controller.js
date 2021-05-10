@@ -1,4 +1,3 @@
-const { where } = require('sequelize/types')
 const { Agencias, Sequelize } = require('../models/')
 const Op = Sequelize.Op
 
